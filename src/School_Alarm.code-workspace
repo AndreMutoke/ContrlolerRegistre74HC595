@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../School_Alarm"
+		},
+		{
+			"name": "Led_Matrix",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
