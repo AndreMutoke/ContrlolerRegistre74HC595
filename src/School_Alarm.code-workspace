@@ -6,6 +6,10 @@
 		{
 			"name": "Led_Matrix",
 			"path": ".."
+		},
+		{
+			"name": "TFT_ESP_PROJECT",
+			"path": "../../TFT_ESP_PROJECT"
 		}
 	],
 	"settings": {
